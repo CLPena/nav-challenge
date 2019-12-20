@@ -11,5 +11,9 @@ button {
 }
 
 .border {
-  border-bottom: 3px solid white;
+  border-bottom: 3px solid #8f96ff;
+}
+
+.invisible {
+  display: none;
 }
