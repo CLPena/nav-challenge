@@ -7,4 +7,9 @@ button {
   background-color: #6A6E7C;
   color: white;
   border: 1px solid #6A6E7C;
+  border-bottom: 3px solid #6A6E7C;
+}
+
+.border {
+  border-bottom: 3px solid white;
 }
