@@ -13,3 +13,11 @@ button {
 .border {
   border-bottom: 3px solid white;
 }
+
+.invisible {
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}
